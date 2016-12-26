@@ -10,4 +10,4 @@ For the COI and 18S data, Jimmy Kralj had prepared 8 libraries in total, pooled 
 
 In addition to the Rdata file and scripts using those processed data, we also provide the fasta files for the OTUs analyzed at each locus, the OTU table (sample-by-OTU abundances) and metadata sheets for the relevant sequencing runs. We intend this repository to be more useful than those that Genbank provides, which don't allow this kind of associated data in any obvious way. You would use the metadata sheets attached here to work with the raw fastq files archived in genbank's Sequence Read Archive. 
 
- 
+The relevant genbank accession number for COI and 18S raw data is SAMN06173488 (with links to a sequence read archive). The 16s reads are associated with genbank BioProject ID number PRJNA338801 (previously published).
